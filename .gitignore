@@ -1,0 +1,19 @@
+# --- Python Basics ---
+__pycache__/
+*.py[cod]
+
+# --- Virtual Environments ---
+.venv
+venv/
+env/
+
+# --- Environment Variables ---
+.env
+
+# --- VS Code ---
+.vscode/
+
+# --- Packaging ---
+build/
+dist/
+*.egg-info/
